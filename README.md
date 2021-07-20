@@ -38,3 +38,8 @@ Each data point is in the format of:
 
 ## Cite this data collection:
 [TBD]
+
+## Contributor
+
+Hieu Tran [(trunghieu.tran@utdallas.edu)](trunghieu.tran@utdallas.edu)
+
