@@ -4,9 +4,9 @@ This repository provide a very large number of IoT Data Stream Descriptions - 10
 
 ## Download
 
-* [Small Dataset 20K](https://raw.githubusercontent.com/saodem74/IoT-Data-Stream-Descriptions/master/IoT-Data-Stream-Descriptions_20K.csv)
+* [Small Dataset 20K](https://raw.githubusercontent.com/saodem74/IoT-Data-Stream-Descriptions-Collection/master/IoT-Data-Stream-Descriptions_20K.csv)
 
-* [Large Dataset 100K](https://github.com/saodem74/IoT-Data-Stream-Descriptions/blob/master/IoT-Data-Stream-Descriptions_100K.csv.zip?raw=true)
+* [Large Dataset 100K](https://github.com/saodem74/IoT-Data-Stream-Descriptions-Collection/blob/master/IoT-Data-Stream-Descriptions_100K.csv.zip?raw=true)
 
 ## Format
 
