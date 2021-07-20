@@ -1,8 +1,12 @@
 # IoT-Data-Stream-Descriptions Collection
 
-This repository provide a very large number of IoT Data Stream Descriptions - 20K data stream, which is collected from IoT database website.
+This repository provide a very large number of IoT Data Stream Descriptions - 100K data stream descriptions, which is collected from IoT database website.
 
-[[Download here]](https://raw.githubusercontent.com/saodem74/IoT-Data-Stream-Descriptions/master/IoT-Data-Stream-Descriptions_20K.csv)
+## Download
+
+* [Small Dataset 20K](https://raw.githubusercontent.com/saodem74/IoT-Data-Stream-Descriptions/master/IoT-Data-Stream-Descriptions_20K.csv)
+
+* [Large Dataset 100K](https://github.com/saodem74/IoT-Data-Stream-Descriptions/blob/master/IoT-Data-Stream-Descriptions_100K.csv.zip?raw=true)
 
 ## Format
 
@@ -14,19 +18,23 @@ Each data point is in the format of:
 
 | Attribute        | #Unique values | #Total values |
 |------------------|----------------|---------------|
+| Id               | 100594         | 100594        |
 | name             | 3599           | 16229         |
-| category         | 32             | 19392         |
-| owner            | 189            | 19669         |
-| country          | 7              | 6855          |
+| category         | 38             | 100594        |
+| owner            | 4097           | 99853         |
+| country          | 221            | 88057         |
+| country_code     | 221            | 81202         |
+| city             | 13454          | 81202         |
 | location         | 1390           | 19329         |
-| location_lat     | 614            | 11866         |
-| location_long    | 616            | 11866         |
+| location_lat     | 15380          | 93068         |
+| location_long    | 15532          | 93068         |
 | elevation        | 886            | 6855          |
 | method           | 4              | 293           |
-| metric           | 83             | 19654         |
-| unit             | 29             | 16744         |
-| ALL              | 7593           | 149713        |
-| #IoT Data Stream | 19392          | 19392         |
+| metric           | 104            | 100856        |
+| unit             | 56             | 97946         |
+| duration         | 144            | 898           |
+| ALL              | 55127          | 879513        |
+| #IoT Data Stream | 100594         | 100594        |
 
 ## Cite this data collection:
 [TBD]
