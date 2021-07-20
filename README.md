@@ -37,7 +37,8 @@ Each data point is in the format of:
 | #IoT Data Stream | 100594         | 100594        |
 
 ## Cite this data collection:
-[TBD]
+
+Hieu Tran. IoT Data Stream Descriptions Collection, 2020 [Online].
 
 ## Contributor
 
