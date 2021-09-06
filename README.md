@@ -38,7 +38,10 @@ Each data point is in the format of:
 
 ## Cite this data collection:
 
-Hieu Tran. IoT Data Stream Descriptions Collection, 2020 [Online].
+1. Hieu Tran. IoT Data Stream Descriptions Collection, 2020 [Online].
+
+
+2. Hieu Tran, Son Nguyen, I-Ling Yen and Farokh Bastani, "Into Summarization Techniques for IoT Data Discovery Routing", in Proceedings of the IEEE International Conference on Cloud Computing (ACM/IEEE CLOUD 2021)
 
 ## Contributor
 
